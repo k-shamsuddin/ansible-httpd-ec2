@@ -44,4 +44,7 @@ This project demonstrates the power of **Infrastructure Automation**. With just 
 
 ```bash
 ansible-playbook -i inventory apache_setup.yml
-
+```
+🔗 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/khaja-shamsuddin-ahmed)  
+💻 [GitHub](https://github.com/k-shamsuddin)
